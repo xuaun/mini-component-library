@@ -53,6 +53,7 @@ const Wrapper = styled.div`
   & > svg {
     display: block;
     stroke-width: var(--stroke-width);
+    color: inherit;
   }
 `;
 
